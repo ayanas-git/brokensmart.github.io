@@ -1,3 +1,10 @@
+---
+layout: post
+title: "The Reality Behind the Sanitized Versions of Success"
+date: 2024-10-28
+description: "A bold declaration of self-worth in the face of hardships, embracing the rawness of experience and highlighting resilience, strength, and identity."
+---
+
 # The Reality Behind the Sanitized Versions of Success
 
 ## The Hidden Costs Behind Resilience
